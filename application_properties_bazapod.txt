@@ -1,0 +1,8 @@
+spring.datasource.platform: postgres
+spring.datasource.url=jdbc:postgres://tegnlxyilcuuyu:408dc89d1a6a8662a9fbab723ffd7203f8fb9b0328ce84454327f502a2b5809c@ec2-35-173-94-156.compute-1.amazonaws.com:5432/deo8mvn0hm6taq
+spring.datasource.username=tegnlxyilcuuyu
+spring.datasource.password=408dc89d1a6a8662a9fbab723ffd7203f8fb9b0328ce84454327f502a2b5809c
+spring.datasource.driver-class-name=org.postgresql.Driver
+spring.datasource.continue-on-error=true
+
+spring.jpa.properties.hibernate.jdbc.lob.non_contextual_creation= true
